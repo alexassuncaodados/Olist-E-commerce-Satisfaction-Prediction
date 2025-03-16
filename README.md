@@ -13,7 +13,7 @@ This project develops a machine learning model to predict customer satisfaction 
 
 ## 💻 Notebook
 
-[Projeto_EBAC_Semantix](https://github.com/AlexSAssuncao/Projeto_ebac_Semantrix/blob/main/Projeto_EBAC_Semantix.ipynb)
+[Olist Customer Satisfaction Prediction](https://github.com/AlexSAssuncao/Projeto_ebac_Semantrix/blob/main/Projeto_EBAC_Semantix.ipynb)
 
 ## 🎯 Key Objectives
 
@@ -87,6 +87,3 @@ The analysis uses the Brazilian E-Commerce Public Dataset by Olist, available on
 - Kaggle community for insights
 - All contributors and reviewers
 
-## 📧 Contact
-
-[FALTA EDITAR]
