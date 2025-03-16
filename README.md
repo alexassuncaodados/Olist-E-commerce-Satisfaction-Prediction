@@ -13,7 +13,7 @@ This project develops a machine learning model to predict customer satisfaction 
 
 ## 💻 Notebook
 
-[Olist Customer Satisfaction Prediction](https://github.com/AlexSAssuncao/Projeto_ebac_Semantrix/blob/main/Projeto_EBAC_Semantix.ipynb)
+[Olist Customer Satisfaction Prediction](https://github.com/alexassuncaodados/Olist-E-commerce-Satisfaction-Prediction/blob/main/Olist%20E-commerce%20Customer%20Satisfaction%20Prediction%20Project.ipynb)
 
 ## 🎯 Key Objectives
 
