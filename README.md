@@ -44,7 +44,8 @@ The analysis uses the Brazilian E-Commerce Public Dataset by Olist, available on
 
 ## 📈 Key Findings
 
-- Achieved 80%+ prediction accuracy
+- Achieved 84%+ prediction accuracy
+- AOC-ROC score: 0.81
 - Identified critical satisfaction factors:
   - Delivery time
   - Price-to-freight ratio
@@ -60,18 +61,19 @@ The analysis uses the Brazilian E-Commerce Public Dataset by Olist, available on
    - Seller response time correlates with satisfaction
 
 2. **Model Performance**
-   - Best model: (80%+ accuracy)
+   - Best model: (84%+ accuracy)
+   - AOC-ROC score: 0.81
    - Strong predictive power for negative reviews
 
 
 ## 📊 Results
 
-- Model Accuracy: >80%
+- Model Accuracy: >84%
 - Key Feature Importance:
-  - Delivery Delay: 25%
-  - Price Ratio: 20%
-  - Seller Rating: 15%
-  - Product Category: 10%
+  - Delivery Delay
+  - Price Ratio
+  - Seller Rating
+  - Product Category
 
 ## 🔄 Future Improvements
 
