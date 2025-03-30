@@ -1,9 +1,6 @@
 # Olist Customer Satisfaction Prediction
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Latest-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
-
+![alt text](image.png)
 
 ## 📊 Project Overview
 
