@@ -89,3 +89,8 @@ The analysis uses the Brazilian E-Commerce Public Dataset by Olist, available on
 - Kaggle community for insights
 - All contributors and reviewers
 
+## 👤 Alex Silva de Assunção
+- [LinkedIn](https://www.linkedin.com/in/alexassuncaodata/)- [GitHub](https://github.com/alexassuncaodados)
+## 📫 Contact
+- Email: [alexassuncao.dados@email.com](mailto:alexassuncao.dados@email.com)
+
