@@ -2,6 +2,10 @@
 
 API FastAPI para predição de satisfação de clientes Olist usando modelo de machine learning.
 
+https://github.com/user-attachments/assets/7b4f1dad-9add-496d-8cc9-025f330593af
+
+
+
 ## 🚀 Estrutura do Projeto
 
 ```
