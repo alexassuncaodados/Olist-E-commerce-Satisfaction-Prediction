@@ -12,6 +12,10 @@ This project develops a machine learning model to predict customer satisfaction 
 
 [Olist Customer Satisfaction Prediction](https://github.com/alexassuncaodados/Olist-E-commerce-Satisfaction-Prediction/blob/main/Olist%20E-commerce%20Customer%20Satisfaction%20Prediction%20Project.ipynb)
 
+## 📈 Project Api
+
+[Olist Customer Satisfaction API (PT-br)](https://github.com/alexassuncaodados/Olist-E-commerce-Satisfaction-Prediction/tree/main/api)
+
 ## 🎯 Key Objectives
 
 - Predict customer satisfaction levels before review submission

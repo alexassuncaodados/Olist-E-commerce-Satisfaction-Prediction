@@ -1,6 +1,6 @@
 # Olist Customer Satisfaction API
 
-API REST para predição de satisfação de clientes Olist usando modelo de machine learning.
+API FastAPI para predição de satisfação de clientes Olist usando modelo de machine learning.
 
 ## 🚀 Estrutura do Projeto
 
@@ -106,9 +106,12 @@ Predição de satisfação do cliente
 ## 🧪 Testes
 
 Use o notebook `teste.ipynb` para:
+
 - Testar endpoints
 - Processar múltiplas predições em paralelo
 - Validar resultados
+
+[Click aqui para Acessar o Notebook com exemplos de testes.](https://github.com/alexassuncaodados/Olist-E-commerce-Satisfaction-Prediction/blob/main/api/teste.ipynb)
 
 ## 🛠️ Tecnologias
 
