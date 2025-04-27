@@ -8,7 +8,7 @@ import os
 from functools import lru_cache
 
 # Constantes
-MODEL_PATH = 'output/'
+MODEL_PATH = '../output/'
 MODEL_FILE = 'RandomForestClassifier_model.pkl'
 SCALER_FILE = 'scaler.pkl'
 COLUMNS_FILE = 'columns.pkl'
@@ -154,7 +154,6 @@ def predict(order_input: OrderInput):
     
     # Fazer predição
     prediction = model.predict(df_scaled)
-    prediction_proba = model.predict_proba(df_scaled)
     
     return {
         'prediction': int(prediction[0]),
