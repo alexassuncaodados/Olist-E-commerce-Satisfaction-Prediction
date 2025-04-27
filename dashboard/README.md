@@ -7,7 +7,11 @@ Dashboard interativo desenvolvido com Streamlit para análise e predição de sa
 
 Um breve vídeo demonstrando a funcionalidade do dashboard:
 
-[Demonstração do Dashboard](sample.mp4)
+
+https://github.com/user-attachments/assets/aaa44c2c-319d-4552-916e-2d6c47d658f9
+
+
+
 
 ## 🚀 Funcionalidades
 
