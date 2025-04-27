@@ -12,7 +12,6 @@ https://github.com/user-attachments/assets/aaa44c2c-319d-4552-916e-2d6c47d658f9
 
 
 
-
 ## 🚀 Funcionalidades
 
 ### 1. Upload de Dados
